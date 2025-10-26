@@ -1,2 +1,33 @@
-# machine-learning-exams-skku
-Machine Learning exams from SKKU 
+# Machine Learning Exams - SKKU
+
+This repository contains exam papers for the **Fundamentals of Machine Learning** course at Sungkyunkwan University (SKKU).
+
+- **Instructor**: [Jaemin Jo](https://github.com/e-)
+- **Teaching Assistant**: [Jaeung Lee](https://github.com/gnueaj)
+- **Managed by**: [IDCLab](https://idclab.skku.edu/)
+
+---
+
+## 2024-Fall
+
+| Exam | Mean | Std Dev | Median | Min | Max | Download |
+|------|------|---------|--------|-----|-----|----------|
+| Midterm | 52.8 | 18.4 | 54 | 10 | 100 | [📄 midterm.pdf](2024_Fall/midterm.pdf) |
+| Final | 46.4 | 19.1 | 47 | 6 | 84 | [📄 final.pdf](2024_Fall/final.pdf) |
+
+---
+
+## 2025-Spring
+
+| Exam | Mean | Std Dev | Median | Min | Max | Download |
+|------|------|---------|--------|-----|-----|----------|
+| Midterm | 51.8 | 12.8 | 52 | 16 | 83 | [📄 midterm.pdf](2025_Spring/midterm.pdf) |
+| Final | 46.2 | 12.5 | 43 | 24 | 88 | [📄 final.pdf](2025_Spring/final.pdf) |
+
+---
+
+## 2025-Fall
+
+| Exam | Mean | Std Dev | Median | Min | Max | Download |
+|------|------|---------|--------|-----|-----|----------|
+| Midterm | 58.8 | 19.2 | 59 | 8 | 99 | [📄 midterm.pdf](2025_Fall/midterm.pdf) |
