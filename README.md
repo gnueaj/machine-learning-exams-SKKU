@@ -12,8 +12,8 @@ This repository contains exam papers for the **Fundamentals of Machine Learning*
 
 | Exam | Mean | Std Dev | Median | Min | Max | Download |
 |------|------|---------|--------|-----|-----|----------|
-| Midterm | 52.8 | 18.4 | 54 | 10 | 100 | [📄 midterm.pdf](2024_Fall/Fundamentals_of_Machine_Learning_2024_2__Midterm.pdf) |
-| Final | 46.4 | 19.1 | 47 | 6 | 84 | [📄 final.pdf](2024_Fall/Fundamentals_of_Machine_Learning_2024_2__Final.pdf) |
+| Midterm | 52.8 | 18.4 | 54 | 10 | 100 | [📄 midterm.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2024_Fall/Fundamentals_of_Machine_Learning_2024_2__Midterm.pdf) |
+| Final | 46.4 | 19.1 | 47 | 6 | 84 | [📄 final.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2024_Fall/Fundamentals_of_Machine_Learning_2024_2__Final.pdf) |
 
 ---
 
@@ -21,8 +21,8 @@ This repository contains exam papers for the **Fundamentals of Machine Learning*
 
 | Exam | Mean | Std Dev | Median | Min | Max | Download |
 |------|------|---------|--------|-----|-----|----------|
-| Midterm | 51.8 | 12.8 | 52 | 16 | 83 | [📄 midterm.pdf](2025_Spring/Fundamentals_of_Machine_Learning_2025_1__Midterm.pdf) |
-| Final | 46.2 | 12.5 | 43 | 24 | 88 | [📄 final.pdf](2025_Spring/Fundamentals_of_Machine_Learning_2025_1__Final.pdf) |
+| Midterm | 51.8 | 12.8 | 52 | 16 | 83 | [📄 midterm.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2025_Spring/Fundamentals_of_Machine_Learning_2025_1__Midterm.pdf) |
+| Final | 46.2 | 12.5 | 43 | 24 | 88 | [📄 final.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2025_Spring/Fundamentals_of_Machine_Learning_2025_1__Final.pdf) |
 
 ---
 
@@ -30,4 +30,4 @@ This repository contains exam papers for the **Fundamentals of Machine Learning*
 
 | Exam | Mean | Std Dev | Median | Min | Max | Download |
 |------|------|---------|--------|-----|-----|----------|
-| Midterm | 58.8 | 19.2 | 59 | 8 | 99 | [📄 midterm.pdf](2025_Fall/Fundamentals_of_Machine_Learning_2025_2_Mid_term.pdf) |
+| Midterm | 58.8 | 19.2 | 59 | 8 | 99 | [📄 midterm.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2025_Fall/Fundamentals_of_Machine_Learning_2025_2_Mid_term.pdf) |
