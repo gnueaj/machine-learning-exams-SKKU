@@ -31,3 +31,6 @@ This repository contains exam papers for the **Fundamentals of Machine Learning*
 | Exam | Mean | Std Dev | Median | Min | Max | Download |
 |------|------|---------|--------|-----|-----|----------|
 | Midterm | 58.8 | 19.2 | 59 | 8 | 99 | [📄 midterm.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2025_Fall/Fundamentals_of_Machine_Learning_2025_2_Mid_term.pdf) |
+| Final | 56.6 | 20.9 | 60 | 0 | 89 | [📄 final.pdf](https://github.com/gnueaj/Machine-Learning-Exams-SKKU/raw/main/2025_Fall/Fundamentals_of_Machine_Learning_2025_2_Final.pdf) |
+
+---
