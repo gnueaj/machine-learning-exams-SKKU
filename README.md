@@ -4,7 +4,7 @@ This repository contains exam papers for the **Fundamentals of Machine Learning*
 
 - **Instructor**: [Jaemin Jo](https://github.com/e-)
 - **Teaching Assistant**:
-  - [Jaeung Lee](https://github.com/gnueaj) (2024-Fall – 2025-Fall)
+  - [Jaeung Lee](https://github.com/gnueaj) (2024-Fall, 2025-Spring, 2025-Fall)
   - [Seonghoon Jung](https://github.com/jshoonn) (2026-Spring – present)
 - **Managed by**: [IDCLab](https://idclab.skku.edu/)
 
